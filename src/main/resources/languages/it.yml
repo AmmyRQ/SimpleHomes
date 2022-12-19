@@ -1,0 +1,18 @@
+---
+#Fascicolo in lingua italiana.
+lang-Name: "Italiano"
+
+# - Messaggi di comando
+wrongCmdFormat: "§c> Parametro sconosciuto o mancante. Usa /home help"
+wrongSubCmdFormat: "§c> Parametri mancanti. Usa /home help"
+homeHelp: "§aHome - Come si usa\n§0---------------\n§7- §6/home add <nome> §7<-> §bCrea una nuova home\n§7- §6/home delete <nome> §7<-> §bElimina una home\n§7- §6/home tp <nome> §7<-> §bTi teletrasporta in una home\n§7- §6/home list §7<-> §bMostra tutte le tue homes\n§0---------------\n§7Plugin creato da §eAmmyRQ §8- §6Versione {version}"
+HomeDoesNotExists: "§c> Non avete nessuna home con quel nome."
+addHome-HomeAlreadyExists: "§c> Hai già una home con quel nome."
+addHome-Success: "§a> Home §b{name} §aregistrata con successo nella tua posizione. Usa §e/home tp {name} §aper teletrasportarsi in questa home."
+addHome-emptyName: "§c> È necessario impostare un nome valido per la tua home."
+delHome-Success: "§a> Home rimossa con successo."
+tpHome-Success: "§a> Sei stato teletrasportato con successo a home tua."
+listHomes: "§e- §6Elenco delle tua homes:\n"
+homeInList: "§b> §7{name}"
+noHomes: "§c> Non avete creato nessuna home."
+...

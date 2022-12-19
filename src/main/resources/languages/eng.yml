@@ -1,0 +1,18 @@
+---
+#English language file.
+lang-Name: "English"
+
+# - Command messages
+wrongCmdFormat: "§c> Unknown or missing parameter. Use /home help"
+wrongSubCmdFormat: "§c> Missing parameters. Use /home help"
+homeHelp: "§aHome - How to use\n§0---------------\n§7- §6/home add <name> §7<-> §bCreates a new home\n§7- §6/home delete <name> §7<-> §bDeletes a home\n§7- §6/home tp <name> §7<-> §bTeleports you to a home\n§7- §6/home list §7<-> §bShows all your homes\n§0---------------\n§7Plugin created by §eAmmyRQ §8- §6Version {version}"
+HomeDoesNotExists: "§c> You do not have any home with that name."
+addHome-HomeAlreadyExists: "§c> You already have a home with that name."
+addHome-Success: "§a> Home §b{name} §aregistered successfully at your position. Use §e/home tp {name} §ato teleport to this home."
+addHome-emptyName: "§c> You must set a valid name for your home."
+delHome-Success: "§a> Home removed successfully."
+tpHome-Success: "§a> You have been teleported to your home successfully."
+listHomes: "§e- §6List of your homes:\n"
+homeInList: "§b> §7{name}"
+noHomes: "§c> You do not have any home created."
+...

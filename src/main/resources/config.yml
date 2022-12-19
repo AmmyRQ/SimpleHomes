@@ -1,0 +1,10 @@
+---
+# Home by AmmyRQ - Main configuration file
+
+#Language that the plugin will use.
+#Available languages:
+#   eng -> English
+#   spa -> Spanish (Español)
+#   it -> Italiano (Italian)
+language: "eng"
+...

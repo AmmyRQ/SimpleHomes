@@ -1,0 +1,18 @@
+---
+#Archivo del idioma español
+lang-Name: "Spanish"
+
+# - Mensajes de comandos
+wrongCmdFormat: "§c> Falta algún parámetro o el parámetro es desconocido. Usa /home help"
+wrongSubCmdFormat: "§c> Faltan parámetros. Usa /home help"
+homeHelp: "§aHome - Cómo usar\n§0---------------\n§7- §6/home add <nombre> §7<-> §bCrea una nueva home\n§7- §6/home delete <nombre> §7<-> §bElimina una home\n§7- §6/home tp <nombre> §7<-> §bTe teletransporta a una home\n§7- §6/home list §7<-> §bMuestra todas tus homes\n§0---------------\n§7Plugin creado por §eAmmyRQ §8- §6Versión {version}"
+HomeDoesNotExists: "§c> No tienes ninguna home con ese nombre."
+addHome-HomeAlreadyExists: "§c> Ya tienes una home con ese nombre."
+addHome-Success: "§a> Home §b{name} §aregistrada exitosamente en tu posición. Usa §e/home tp {name} §apara teletransportarte a esta home."
+addHome-emptyName: "§c> Debes establecer un nombre válido para la home."
+delHome-Success: "§a> Home eliminada exitosamente."
+tpHome-Success: "§a> Te has teletransportado a tu home exitosamente."
+listHomes: "§e- §6Lista de tus homes:\n"
+homeInList: "§b> §7{name}"
+noHomes: "§c> No tienes ninguna home creada."
+...
